@@ -3,4 +3,4 @@ Simple [SRC] Commenting On Instagram[Explore-Posts] - Automatic
 
 Simple Look : 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Sql-Tools/Explore-Comment/blob/main/SimplePreview.PNG)
