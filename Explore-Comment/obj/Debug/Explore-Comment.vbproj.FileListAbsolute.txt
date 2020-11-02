@@ -1,0 +1,11 @@
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\bin\Debug\Explore-Comment.exe.config
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\bin\Debug\Explore-Comment.exe
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\bin\Debug\Explore-Comment.pdb
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\bin\Debug\Explore-Comment.xml
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore_Comment.Form1.resources
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore_Comment.Resources.resources
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore-Comment.vbproj.GenerateResource.cache
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore-Comment.vbproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore-Comment.exe
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore-Comment.xml
+C:\Users\Nour\source\repos\Explore-Comment\Explore-Comment\obj\Debug\Explore-Comment.pdb
